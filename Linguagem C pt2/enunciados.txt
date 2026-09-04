@@ -1,0 +1,15 @@
+a) Elaborar um programa que apresente os quadrados dos números inteiros existentes na faixa de valores de 15 a 200.
+
+b) Elaborar um programa que mostre os resultados da tabuada de um número qualquer, a qual deve ser apresentada de acordo com sua forma tradicional. Ex.: 1x1 = 1 1x2 = 2
+
+c) Construir um programa que apresente a soma dos cem primeiros números naturais: (1+2+3+...+98+99+100).
+
+d) Escrever um programa que apresente como resultado a potência de uma base qualquer elevada a um
+expoente qualquer, ou seja, de BS^EX, em que BS é o valor da base e EX o valor do expoente. Considere
+apenas a entrada de valores inteiros e positivos, ou seja, de valores naturais. Use a técnica de laço de
+repetição, em que o valor da base deve ser multiplicado o número de vezes determinado no expoente.
+
+e) Escrever um programa que apresente os valores da sequência numérica de Fibonacci até o décimo quinto
+termo. A sequência de Fibonacci é formada por 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, ... etc.,
+obtendo-se o próximo termo a partir da soma do termo atual com o anterior sucessivamente até o infinito se
+a sequência não for interrompida.
